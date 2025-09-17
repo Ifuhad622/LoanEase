@@ -1,6 +1,4 @@
-LoanEase: 
-A Financial Loan Management App
-
+LoanEase
 Project Title & Description
 Title:LoanEase Simplifying Access to Digital Microloans
 
