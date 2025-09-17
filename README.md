@@ -1,4 +1,4 @@
-LoanEase
+LoanEase:
 Project Title & Description:
 Title:LoanEase Simplifying Access to Digital Microloans
 
