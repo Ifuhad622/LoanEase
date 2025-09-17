@@ -1,8 +1,7 @@
 LoanEase
 
 Project Title & Description
-Title:
-LoanEase Simplifying Access to Digital Microloans
+Title:LoanEase Simplifying Access to Digital Microloans
 
 Description:
 LoanEase is a full-stack financial web app that allows users to apply for small loans, track repayments, and build credit profiles over time. Admins can view, approve, and manage loan applications. The system includes loan calculators, user authentication, automated credit scoring, and repayment history.
